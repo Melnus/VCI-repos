@@ -3,3 +3,4 @@
 <br>https://www.foriio.com/works/4774
 
 My VCI Files
+<br><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="CC" title="CCBY">
